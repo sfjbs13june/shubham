@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a4dd02-6ea5-4684-84f6-c92cf1bc24bd" name="Changes" comment="day 01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day01/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "searchQuery": "https://github.com/sfjbs13june/rama.git",
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "searchQuery": "https://github.com/sfjbs13june/rama.git",
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ce0b88a7-0c78-4d49-8de7-ae71d0b71ddb" />
+        <option name="url" value="https://github.com/sfjbs13june/shubham.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KAYVrtS1oPFAzcv1LVKcZ66QeV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/cygwin64/home/sfjbs/shubham/Day01"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\cygwin64\home\sfjbs\shubham\Day15" />
+      <recent name="C:\cygwin64\home\sfjbs\shubham\Day14" />
+      <recent name="C:\cygwin64\home\sfjbs\shubham\Day13" />
+      <recent name="C:\cygwin64\home\sfjbs\shubham\Day12" />
+      <recent name="C:\cygwin64\home\sfjbs\shubham\Day11" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a4dd02-6ea5-4684-84f6-c92cf1bc24bd" name="Changes" comment="" />
+      <created>1673418884014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673418884014</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Day01">
+      <created>1673421173159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673421173159</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 03">
+      <created>1673496426608</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673496426608</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day 01">
+      <created>1673500366134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673500366134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day01" />
+    <MESSAGE value="Day 03" />
+    <MESSAGE value="day 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 01" />
+  </component>
+</project>

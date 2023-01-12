@@ -1,1 +1,1 @@
-# Day01
+mvn archetype:generate -DgroupId=com.shubham.app -DartifactId=first-java-project -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
